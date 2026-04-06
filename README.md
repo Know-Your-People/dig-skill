@@ -4,6 +4,10 @@
 
 **Digs** is an open-source agent skill that turns your active research threads into a private, compounding intelligence layer — kept on your machine, owned by you.
 
+A dig is a question you're pursuing. Not knowledge you have — something you're figuring out. The difference matters: Digs is anchored by uncertainty, not facts. Each thread stays alive until it's resolved or abandoned, and the agent helps it compound over time.
+
+Inspired by Andrej Karpathy's LLM-wiki pattern: the file isn't a dump of links. It's a persistent, maintained artifact — findings synthesised, contradictions flagged, open questions tracked. The agent is an active participant in the research, not just a retrieval layer.
+
 No Notion. No bookmarks folder. Just files and your AI agent.
 
 ---

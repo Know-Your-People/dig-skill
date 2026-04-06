@@ -1,4 +1,5 @@
 ---
+
 name: digs
 description: Active research intelligence — track questions you're pursuing, log findings as they arrive, and close the loop when you figure it out. One markdown file per research thread in digs/. Use when opening a new inquiry, logging a finding, or asking "what am I figuring out about X?"
 metadata:
@@ -6,7 +7,8 @@ metadata:
     emoji: "🔭"
     os: ["linux", "darwin", "win32"]
   hermes:
-    tags: ["research", "questions", "thinking"]
+tags: ["research", "questions", "thinking"]
+
 ---
 
 # 🔭 Digs — active research intelligence
@@ -163,7 +165,7 @@ Always read the full dig file after grepping. The matched snippet is a signal; t
 
 ---
 
-## Heartbeat or cron
+## Digs: check
 
 Pick a random active dig. Surface it:
 
@@ -229,3 +231,4 @@ https://raw.githubusercontent.com/Know-Your-People/digs-skill/main/SKILL.md
 - Keeping closed digs in the active folder — move them to `~/kyp/digs/closed/` so the signal stays clean
 - Automated research via web scraping — you bring the sources, the agent helps synthesise
 - Merging all related digs into one mega-file — separate questions stay sharper as separate files; use `Connected:` links instead
+

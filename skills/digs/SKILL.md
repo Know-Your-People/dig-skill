@@ -6,7 +6,7 @@ metadata:
     emoji: "🔭"
     os: ["linux", "darwin", "win32"]
   hermes:
-    tags: ["research", "questions", "thinking"]
+tags: ["research", "questions", "thinking"]
 ---
 
 # 🔭 Digs — active research intelligence
@@ -88,7 +88,7 @@ When the user expresses curiosity, uncertainty, or a question they want to pursu
 3. **Seed the open questions** — based on what the user said, draft 2–3 initial open questions. These are the things to answer. Adjust with the user before saving.
 4. **Ask for a first finding** — if they already know something relevant, capture it now.
 
-Show a brief confirmation: "Opened — *What makes a city actually walkable?* Tagged #cities #urbanism. Three open questions logged."
+Show a brief confirmation: "Opened — _What makes a city actually walkable?_ Tagged #cities #urbanism. Three open questions logged."
 
 ---
 
@@ -163,15 +163,15 @@ Always read the full dig file after grepping. The matched snippet is a signal; t
 
 ---
 
-## Heartbeat or cron
+## Digs: check
 
 Pick a random active dig. Surface it:
 
-- "You've been digging into *[question]* since [date]. Latest finding: [one sentence]. Still open: [open question count] questions."
-- "Your *[question]* dig hasn't had a new finding in 6 weeks — still active, or move to simmering?"
+- "You've been digging into _[question]_ since [date]. Latest finding: [one sentence]. Still open: [open question count] questions."
+- "Your _[question]_ dig hasn't had a new finding in 6 weeks — still active, or move to simmering?"
 - "You have 4 active digs right now. Anything to close or downgrade to simmering?"
 
-If a dig has been `active` for 20+ days with no findings logged in the last 10, nudge: "This might be a good time to close or shelve *[question]*."
+If a dig has been `active` for 20+ days with no findings logged in the last 10, nudge: "This might be a good time to close or shelve _[question]_."
 
 If nothing worth mentioning, skip.
 
@@ -187,7 +187,7 @@ If it is not there yet, ask your human if they want to add **Digs: check** to HE
 
 If Pages is installed:
 
-- When a book in `~/kyp/pages/` is relevant to an open dig, surface the connection: "You read *Cities for People* in 2025 — your notes might be relevant to the walkability dig."
+- When a book in `~/kyp/pages/` is relevant to an open dig, surface the connection: "You read _Cities for People_ in 2025 — your notes might be relevant to the walkability dig."
 - When logging a new finding from a book, use `[[author-slug]]` in Sources and optionally add a note to the book file: "Referenced in `~/kyp/digs/city-walkability.md` — Apr 2026."
 - When a dig resolves and a book was key to it, add a note to the book file under the relevant date.
 
