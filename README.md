@@ -30,7 +30,7 @@ digs/
 ## Install
 
 ```bash
-npx skills add Know-Your-People/dig-skill
+npx skills add Know-Your-People/digs-skill
 ```
 
 Works with OpenClaw, Cursor, Claude Code, and any agent that supports the skills ecosystem.
