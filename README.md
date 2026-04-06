@@ -89,6 +89,7 @@ Digs is part of a suite of personal intelligence skills:
 - [**Peeps** 👥](https://github.com/Know-Your-People/peeps-skill) — your personal network. When someone has expertise matching an open dig, your agent surfaces them as a source.
 - [**Pages** 📖](https://github.com/Know-Your-People/pages-skill) — your reading life. Books relevant to active digs get connected automatically.
 - [**Haah** 🪩](https://github.com/Know-Your-People/haah-skill) — dispatch to your trusted circles. When you need external signal on a research question, Haah can ask your network.
+- [**Nooks** 📍](https://github.com/Know-Your-People/nooks-skill) — your saved places. A coffee meeting at a nook can turn into a finding.
 - [**Vibes** 🎧](https://github.com/Know-Your-People/vibes-skill) — albums, shows, podcasts, films, YouTube channels. Documentaries and podcasts can feed findings into your digs.
 
 Install all six and your agent knows your people, your places, your reads, your culture, and your open questions.
