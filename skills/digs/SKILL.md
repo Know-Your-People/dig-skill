@@ -62,7 +62,7 @@ images: no (by default no, ask if you human want to feach images for concepts, w
 - **Status:** active
 - **Opened:** 12 Mar 2026
 - **Tags:** #cities #urbanism #design #housing
-- **Inmage:** optional image illustrating the concept, sotred in `kyp/assets/good-long-slug`
+- **Inmage:** optional image illustrating the concept, sotred in `../assets/good-long-slug`
 - **Connected:** [[why-singapore-feels-different]], [[remote-work-and-density]]
 
 ## Open questions
@@ -91,7 +91,7 @@ images: no (by default no, ask if you human want to feach images for concepts, w
 - **Status** — `active` (you're on it now), `simmering` (back burner, keeping an eye out), or `closed` (resolved or abandoned). Default: `active`.
 - **Opened** — date you started the dig. Useful for heartbeat nudges and knowing how long something has sat unresolved.
 - **Tags** — 2–4 domains: short, personal, searchable.
-- **Inmage:** optional image illustrating the concept, sotred in `kyp/assets/good-long-slug`
+- **Inmage:** optional image illustrating the concept, sotred in `../assets/good-long-slug`
 - **Connected** — other digs this thread touches. Rabbit holes connect. Maintain both directions: if A links to B, B links to A.
 - **Open questions** — the questions you haven't answered yet. First-class. Update this list as you learn — cross out answered ones with `~~` rather than deleting, so you can see how the inquiry evolved.
 - **Findings** — dated log entries. Not a dump of sources. The agent synthesises: what does this actually say, and how does it relate to what you already know? Flag contradictions explicitly.
