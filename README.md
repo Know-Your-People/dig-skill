@@ -35,11 +35,20 @@ digs/
 
 ## Install
 
+### Claude Code
+
+```bash
+mkdir -p ~/.claude/skills/digs
+curl -o ~/.claude/skills/digs/SKILL.md https://raw.githubusercontent.com/Know-Your-People/digs-skill/main/SKILL.md
+```
+
+### Other agents
+
 ```bash
 npx skills add Know-Your-People/digs-skill
 ```
 
-Works with OpenClaw, Cursor, Claude Code, and any agent that supports the skills ecosystem.
+Works with OpenClaw, Cursor, and any agent that supports the skills ecosystem.
 
 ### Hermes
 
